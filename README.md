@@ -23,6 +23,7 @@ Pipeline de despliegue automático de una aplicación Node.js/Express hacia Goog
 
 ## Arquitectura
 
+
 ```
 git push (main)
       │
